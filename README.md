@@ -2,7 +2,7 @@
 
  * A simple haxe project tat Plays a gif of a Cirno Fumo
 
-https://raw.githubusercontent.com/SnesFX/CirnoFumo-Haxe/main/assets/images/cirnofumo.gif
+![Get Funky](https://raw.githubusercontent.com/SnesFX/CirnoFumo-Haxe/main/assets/images/cirnofumo.gif)
 
  # Credits
 
